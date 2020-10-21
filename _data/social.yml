@@ -1,0 +1,16 @@
+- title: Twitter
+  url: https://twitter.com/lolitalecompte?lang=fr
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/llecompte
+  icon: fab fa-github
+- title: LinkedIn
+  url: https://www.linkedin.com/in/lolita-lecompte/
+  icon: fab fa-linkedin
+- title: Scholar
+  url: https://scholar.google.com/citations?user=Qaof6LYAAAAJ&hl=en
+  icon: fab fa-google
+- title: ResearchGate
+  url: https://www.linkedin.com/in/lolita-lecompte/
+  icon: fab fa-researchgate
+
