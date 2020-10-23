@@ -6,7 +6,7 @@ permalink: /publications/
   
 ## Publications
 
-**<i class="fa fa-orcid"></i> [ORCID](http://orcid.org/0000-0001-8773-6317)**
+**<i class="fab fa-orcid"></i> [ORCID](http://orcid.org/0000-0001-8773-6317)**
 
 Lolita Lecompte, Pierre Peterlongo, Dominique Lavenier, Claire Lemaitre, **SVJedi: genotyping structural variations with long reads, Bioinformatics**, *Accepted in Bioinformatics* , btaa527, [https://doi.org/10.1093/bioinformatics/btaa527](https://doi.org/10.1093/bioinformatics/btaa527)
 
