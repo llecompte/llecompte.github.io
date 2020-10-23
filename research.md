@@ -6,7 +6,7 @@ permalink: /research/
   
 ## Thesis
 
-Currently, a doctoral student in my last year under the supervision of [Claire Lemaitre](http://people.rennes.inria.fr/Claire.Lemaitre/) and Dominique Lavenier, I am defending my thesis in early December 2020. I am interested in the study of structural variants in genomes, as well as long read sequencing data that are particularly useful for studying these variants. My thesis focuses on the genotyping task of the structural variants. During my PhD, I developed a new method for genotyping structural variants with long read data. I propose an implementation of this method: [SVJedi](https://github.com/llecompte/SVJedi).
+Currently, I am a doctoral student in last year under the supervision of [Claire Lemaitre](http://people.rennes.inria.fr/Claire.Lemaitre/) and Dominique Lavenier, I am defending my thesis in early December 2020. I am interested in the study of structural variants in genomes, as well as long read sequencing data that are particularly useful for studying these variants. My thesis focuses on the genotyping task of the structural variants. During my PhD, I developed a new method for genotyping structural variants with long read data. I propose an implementation of this method: [SVJedi](https://github.com/llecompte/SVJedi).
 
 
 
