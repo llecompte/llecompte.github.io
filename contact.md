@@ -6,10 +6,8 @@ permalink: /contact/
 
 ## Contact 
 
-
-**Inria Rennes - Bretagne Atlantique**  
-Campus de Beaulieu  
-263 avenue du Général Leclerc  
-35042 Rennes Cedex, France  
-
-
+**Institut Curie**  
+Centre de Recherche   
+26 rue d'Ulm  
+75248 Paris Cedex 05  
+FRANCE  
