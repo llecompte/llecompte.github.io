@@ -7,8 +7,14 @@ permalink: /resume/
 
 ## Research experience
 
-**Since sept 2017**     &nbsp;&nbsp;&nbsp;&nbsp;**PhD**  
-Genotyping structural variations with third generation sequencing data  
+
+**Since July 2021**     &nbsp;&nbsp;&nbsp;&nbsp;**Research engineer**  
+Genomics, transcriptomics analysis for both short read and long read data  
+Bioinformatics core facility, Institut Curie, Paris, France  
+
+**2017-2022**     &nbsp;&nbsp;&nbsp;&nbsp;**PhD in Bioinformatics**  
+Structural variant genotyping with third generation sequencing data  
+Superviors: Claire Lemaitre (Inria Reasearch Associate), Dominique Lavenier (CNRS Research Director)  
 Genscale team, Inria Rennes, France
 
 **Jan-June 2017** &nbsp;&nbsp;&nbsp;&nbsp;**M2 intership**  
@@ -17,7 +23,7 @@ Genscale team, Inria Rennes, France
 
 **July-Aug 2016** &nbsp;&nbsp;&nbsp;&nbsp;**Summer intership**  
 Conception and implementation of quality control methods for transcriptomic data for a pipeline in cancerology  
-Centre de recherche en cancérologie Nantes-Angers (CRCNA), Nantes
+Centre de recherche en cancérologie Nantes-Angers (CRCNA), Nantes, France  
 
 **Apr-June 2016** &nbsp;&nbsp;&nbsp;&nbsp;**M1 intership**  
 Motif selection and rule modelisation  
@@ -31,6 +37,12 @@ Laboratoire de traduciton cycle cellulaire et développement, Station Biologique
 
 
 ## Education
+
+**2017-2022**
+&nbsp;&nbsp;&nbsp;&nbsp;**PhD in Computer Science, Bioinformatics**  
+Thesis defended on December 4th, 2020  
+Structural variant genotyping with third generation sequencing data  
+Genscale team, Inria Rennes, France  
 
 **2015-2017**
 &nbsp;&nbsp;&nbsp;&nbsp;**Master of Science in Bioinformatics degree**  
